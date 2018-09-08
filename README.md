@@ -14,4 +14,4 @@
 * axios 请求<br>
   
 ## 效果图
-![image text](https://github.com/maoyaoya/wherego/static/show/show-home.gif)
+![image](https://github.com/maoyaoya/wherego/blob/master/static/display/show-home.gif)
