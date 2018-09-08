@@ -13,3 +13,5 @@
 * better-scroll 滚动效果<br>
 * axios 请求<br>
   
+## 效果图
+![image text](https://github.com/maoyaoya/wherego/static/show/show-home.gif)
