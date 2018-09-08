@@ -1,6 +1,10 @@
-# wherego
+# wherego （仿写去哪儿移动端）
 
-> A Vue.js project
+  实现了首页的布局和动画效果<br>
+  <br>
+  用swiper组件完成了轮播效果<br>
+  <br>
+  实现了城市搜索页面的基本逻辑以及详情页面的大部分逻辑
 
 ## Build Setup
 
