@@ -7,9 +7,9 @@
   实现了城市搜索页面的基本逻辑以及详情页面的大部分逻辑
 
 ## 技术栈
-  * vue+vue-router 核心框架<br>
-  * vue-swiper  实现轮播效果<br>
-  * Vuex  实现组件中数据的通信<br>
-  * better-scroll 滚动效果<br>
-  * axios 请求<br>
+* vue+vue-router 核心框架<br>
+* vue-swiper  实现轮播效果<br>
+* Vuex  实现组件中数据的通信<br>
+* better-scroll 滚动效果<br>
+* axios 请求<br>
   
