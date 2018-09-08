@@ -14,7 +14,7 @@
 * axios 请求<br>
   
 ## 效果图
-![image](https://github.com/maoyaoya/wherego/blob/master/static/display/show-home.gif)
-![image](https://github.com/maoyaoya/wherego/blob/master/static/display/show-alpha.gif)
-![image](https://github.com/maoyaoya/wherego/blob/master/static/display/show-detail.gif)
+![image](https://github.com/maoyaoya/wherego/blob/master/static/display/show-home.gif)<br>
+![image](https://github.com/maoyaoya/wherego/blob/master/static/display/show-alpha.gif)<br>
+![image](https://github.com/maoyaoya/wherego/blob/master/static/display/show-details.gif)<br>
 
